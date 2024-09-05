@@ -1,0 +1,31 @@
+﻿Build started 04-09-2024 22:47:57.
+     1>Project "C:\Users\hp\OneDrive\Desktop\sem6\cs346(swe)\login2\login\login.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\login.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\login.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt login\stdafx.cpp /clr:nostdlib 
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\login.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt AssemblyInfo.cpp examPage.cpp login.cpp mainform.cpp mainpage_admin.cpp scoreCard.cpp scoreCard\scoreCard\scoreCard.cpp signup.cpp start_page.cpp /clr:nostdlib 
+         AssemblyInfo.cpp
+         examPage.cpp
+         login.cpp
+     1>c:\users\hp\onedrive\desktop\sem6\cs346(swe)\login2\login\mainpage_admin.h(479): warning C4101: 'ex' : unreferenced local variable
+         mainform.cpp
+         mainpage_admin.cpp
+     1>c:\users\hp\onedrive\desktop\sem6\cs346(swe)\login2\login\mainpage_admin.h(479): warning C4101: 'ex' : unreferenced local variable
+         scoreCard.cpp
+         scoreCard.cpp
+         signup.cpp
+         start_page.cpp
+         Generating Code...
+     1>c:\users\hp\onedrive\desktop\sem6\cs346(swe)\login2\login\exampage.h(638): warning C4715: 'LoginApp::examPage::fetch_sec' : not all control paths return a value
+     1>c:\users\hp\onedrive\desktop\sem6\cs346(swe)\login2\login\exampage.h(638): warning C4715: 'LoginApp::examPage::fetch_sec' : not all control paths return a value
+     1>c:\users\hp\onedrive\desktop\sem6\cs346(swe)\login2\login\exampage.h(638): warning C4715: 'LoginApp::examPage::fetch_sec' : not all control paths return a value
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /analyze- /errorReport:prompt "C:\Users\hp\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+     1>C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets(2318,5): error MSB3821: Couldn't process file scoreCard\scoreCard\scoreCard.resx due to its being in the Internet or Restricted zone or having the mark of the web on the file. Remove the mark of the web if you want to process these files.
+     1>Done Building Project "C:\Users\hp\OneDrive\Desktop\sem6\cs346(swe)\login2\login\login.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:06.94

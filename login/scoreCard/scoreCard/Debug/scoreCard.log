@@ -1,0 +1,29 @@
+﻿Build started 03-03-2024 19:57:23.
+     1>Project "C:\Users\lakshya\Desktop\sem6\CS 346\scoreCard\scoreCard\scoreCard.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\scoreCard.unsuccessfulbuild".
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Microsoft.VisualBasic.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\VBPowerPacks\v10.0\Microsoft.VisualBasic.PowerPacks.Vs.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt scoreCard.cpp /clr:nostdlib 
+         scoreCard.cpp
+         All outputs are up-to-date.
+       CoreResGen:
+         No resources are out of date with respect to their source files. Skipping resource generation.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\lakshya\Desktop\sem6\CS 346\scoreCard\Debug\scoreCard.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\scoreCard.scoreCard.resources /MANIFEST /ManifestFile:"Debug\scoreCard.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\lakshya\Desktop\sem6\CS 346\scoreCard\Debug\scoreCard.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\scoreCard.res
+         Debug\scoreCard.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         scoreCard.vcxproj -> C:\Users\lakshya\Desktop\sem6\CS 346\scoreCard\Debug\scoreCard.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\lakshya\Desktop\sem6\CS 346\scoreCard\Debug\scoreCard.exe;#1" /manifest Debug\scoreCard.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\scoreCard.unsuccessfulbuild".
+         Touching "Debug\scoreCard.lastbuildstate".
+     1>Done Building Project "C:\Users\lakshya\Desktop\sem6\CS 346\scoreCard\scoreCard\scoreCard.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.54
